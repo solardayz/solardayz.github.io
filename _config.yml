@@ -2,10 +2,10 @@
 title: Solar's blog
 description: A simple, beautiful, and powerful Jekyll theme for blogs
 url: https://solardayz.github.io
-avatar: /avatar.jpeg
+avatar: /_avatar.jpeg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /_bg.jpeg
 
 # Gems
 plugins:
