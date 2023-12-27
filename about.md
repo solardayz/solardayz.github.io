@@ -3,6 +3,6 @@ layout: page
 title: About
 ---
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+**Solar's Blog** 는 회원관리 시스템을 만드는 과정을 글로 남기기 위해 만든 블로그 입니다.
 
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+For more information about Not Pure Poole, please browse the [소개](https://about.ntbc.shop).
