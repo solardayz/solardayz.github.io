@@ -7,8 +7,6 @@ tags: [회원관리시스템]
 toc:  true
 ---
 
-# PostgreSQL, Oracle, MySQL, MSSQL 비교
-
 ## 라이센스
 
 |                 | PostgreSQL                                        | Oracle                                                    | MySQL                                                  | MSSQL                                                  |
