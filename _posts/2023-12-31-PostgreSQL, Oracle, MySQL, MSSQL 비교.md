@@ -73,22 +73,3 @@ toc:  true
 
 위 3가지 이유로 PostgreSQL은 현대적이고 안정적인 데이터베이스 시스템으로서 많은 기업과 프로젝트에서 선택되고 있습니다.
 
-```mermaid
-graph LR
-A[PostgreSQL] -->|ACID 특성| B
-A -->|확장성| C
-A -->|오픈 소스| D
-A -->|JSON 지원| E
-B[Oracle] -->|ACID 특성| F
-B -->|확장성| G
-B -->|오픈 소스| H
-B -->|JSON 지원| I
-C[MySQL] -->|ACID 특성| J
-C -->|확장성| K
-C -->|오픈 소스| L
-C -->|JSON 지원| M
-D[MSSQL] -->|ACID 특성| N
-D -->|확장성| O
-D -->|오픈 소스| P
-D -->|JSON 지원| Q
-```
